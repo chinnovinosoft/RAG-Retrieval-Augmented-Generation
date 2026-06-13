@@ -1,0 +1,6 @@
+Who founded OpenAI and what products have they developed?
+What is the relationship between Anthropic and Amazon?
+Which companies use Neo4j and what is it used for?
+How is GraphRAG different from standard RAG?
+What AI research labs are associated with universities?
+Which GPU manufacturer powers most AI model training?
