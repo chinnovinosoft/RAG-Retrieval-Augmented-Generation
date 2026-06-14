@@ -1,0 +1,33 @@
+# ─── MCP ──────────────────────────────────────────────
+fastmcp>=2.0.0
+langchain-mcp-adapters>=0.1.0
+
+# ─── LangChain Deep Agents ────────────────────────────
+deepagents>=0.1.0
+
+# ─── Pinecone ─────────────────────────────────────────
+pinecone>=5.0.0
+
+# ─── LangChain core (used by deepagents + mcp adapters)
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-anthropic>=0.3.0
+langchain-openai>=0.2.0
+
+# ─── LLM providers ────────────────────────────────────
+anthropic>=0.40.0
+openai>=1.50.0
+
+# ─── Validation & settings ────────────────────────────
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# ─── HTTP / async ─────────────────────────────────────
+aiohttp>=3.9.0
+httpx>=0.27.0
+
+# ─── Resilience ───────────────────────────────────────
+tenacity>=8.2.0
+
+# ─── Environment ──────────────────────────────────────
+python-dotenv>=1.0.0

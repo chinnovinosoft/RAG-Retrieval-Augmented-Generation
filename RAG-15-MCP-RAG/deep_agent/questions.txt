@@ -1,0 +1,15 @@
+
+1. What is the purpose of ISO 27001 as stated in the Introduction, what clauses must an organization implement to claim conformity as per Section 1 (Scope), and which Annex A control ensures compliance with those requirements is regularly reviewed?
+
+2. What three things must personnel be aware of under Section 7.3, how does Section 6.3 handle planned changes to the ISMS, and what does Annex A control 6.3 say about security awareness training?
+
+3. What inputs must go into a management review under Section 9.3.2, what corrective actions are required under Section 10.2 when nonconformity occurs, and which Annex A control requires independent review of information security?
+
+4. What does Section 4.2 say about interested parties, what must the information security policy include under Section 5.2 regarding those parties, and which Annex A controls address supplier and third-party relationships?
+
+5. What does Section 8.1 require for operational planning, what risk treatment documentation must be retained per Section 8.3, and which Annex A technological controls (Section 8) support secure operations specifically around logging, monitoring, and backup?
+
+
+
+
+What is the purpose of ISO 27001 as stated in the Introduction, what clauses must an organization implement to claim conformity as per Section 1 (Scope), and which Annex A control ensures compliance with those requirements is regularly reviewed?. What three things must personnel be aware of under Section 7.3, how does Section 6.3 handle planned changes to the ISMS, and what does Annex A control 6.3 say about security awareness training?. What inputs must go into a management review under Section 9.3.2, what corrective actions are required under Section 10.2 when nonconformity occurs, and which Annex A control requires independent review of information security?
