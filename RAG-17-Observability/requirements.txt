@@ -1,0 +1,24 @@
+# LangSmith Observability
+langsmith>=0.2.0
+
+# LangGraph + LangChain
+langgraph>=1.0.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-pinecone>=0.2.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# Vector DB
+pinecone>=5.0.0
+
+# PDF Loading
+pypdf>=5.0.0
+
+# LLM
+openai>=1.50.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
