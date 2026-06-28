@@ -1,0 +1,6 @@
+
+Which products have stock below their reorder level, which warehouse are they stored in, and who is their supplier with contact email?
+
+Show me each customer's full name, their order total, payment method, payment status, and the shipping carrier with tracking number.
+
+Show all product reviews with the reviewer's full name, product name, category it belongs to, rating, and whether it's a verified purchase.

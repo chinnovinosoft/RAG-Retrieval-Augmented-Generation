@@ -1,0 +1,22 @@
+# LangGraph + LangChain
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-pinecone>=0.2.0
+
+# Vector DB
+pinecone>=5.0.0
+
+# PostgreSQL driver (NeonDB)
+psycopg2-binary>=2.9.0
+
+# LLM
+openai>=1.50.0
+
+# Streamlit UI
+streamlit>=1.35.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
